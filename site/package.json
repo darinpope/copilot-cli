@@ -4,7 +4,7 @@
   "description": "This module is part of the AWS Copilot CLI project.",
   "main": "index.js",
   "dependencies": {
-    "autoprefixer": "^9.8.5",
+    "autoprefixer": "^9.8.6",
     "lodash": ">=4.17.19",
     "postcss-cli": "^7.1.1"
   },
